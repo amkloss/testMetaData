@@ -1,3 +1,1 @@
-$ git reset HEAD newfile
-$ git rm
-rm 'newfile'
+$ git reset HEAD^ -- <DELETE test>
